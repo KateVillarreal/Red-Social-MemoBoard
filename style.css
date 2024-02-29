@@ -1,0 +1,39 @@
+.logo{
+    width: 100px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.navbar-brand{
+    font-family: 'Lucida Grande';
+    font-size: 30px;
+    padding: 10px;
+    color: white;
+    
+}
+
+.nav-link{
+    color: rgb(255, 255, 255);
+    font-family: "Lucida Grande";
+    font-size: 20px;
+}
+
+#contenedor-tareas-mias{
+    box-shadow: 0px 0px 103px -22px rgba(0, 0, 0, 0.788);
+}
+
+#contenedor-tareas-todas{
+    box-shadow: 0px 0px 103px -22px rgba(0, 0, 0, 0.788);
+}
+
+.container{
+    box-shadow: 0px 0px 103px -22px rgba(0, 0, 0, 0.788);
+}
+
+.p-4{
+    box-shadow: 0px 0px 103px -22px rgba(0, 0, 0, 0.788);
+}
+
+body{
+    font-family: "Lucida Grande";
+}
