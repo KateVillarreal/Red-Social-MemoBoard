@@ -39,7 +39,7 @@ formIniciarSesion.submit(async function(event) {
         } else if (error.code === 'auth/user-not-found') {
           mostrarMensaje("No se encuentra usuario", "error")
         } else {
-          mostrarMensaje("Algo salio mal", "error") //si todo esta ok podrias cambiarlo como Tu email o pass estan equivocados
+          mostrarMensaje("Algo salió mal", "error") //si todo esta ok podrias cambiarlo como Tu email o pass estan equivocados
         }
     }
 
